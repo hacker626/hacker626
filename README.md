@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker626&label=Profile%20views&color=0e75b6&style=flat" alt="Mridul Bhaskar Stats" /> </p>
 </br>
 <ul type="circle">
-  <li> 🤐 Working on Project Development/li>
+  <li> 🤐 Working on Project Development</li>
   <li>🌱 Exploring Algorithm</li>
  <li>🤔 Looking for help in Advanced CSS</li>
  <li>📫 Ask me about <strong><em>Python|C++|Android Studio|DSA</strong></em></li>
