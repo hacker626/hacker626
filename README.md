@@ -50,7 +50,7 @@
 </br></br>
 <table cell padding = "20dp">
   <tr>
-    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker626&show_icons=true&locale=en&layout=compact" alt="hacker626" /></p></td>
+    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker626&show_icons=true&locale=en&layout=compact" alt="hacker626_coding_status" /></p></td>
     <td>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker626&&show_icons=true&title_color=DFF6FF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Mridul_Bhaskar_Github_Stats" /></p></td>
 
