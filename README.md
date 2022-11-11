@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/mridul-bhaskar-b8aa03194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridulbhaskar_LinkedIn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mridulbhaskar_a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mridulbhaskar_hackerrank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mridulbhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mridulbhaskar_leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<mridulbhaskarabc>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mridulbhaskarabc_geeksforgeeks" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mridulbhaskarabc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mridulbhaskarabc_geeksforgeeks" height="30" width="40" /></a>
 </p>
 </br></br>
 <table cell padding = "20dp">
